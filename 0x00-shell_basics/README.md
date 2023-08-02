@@ -8,3 +8,4 @@ Move the file betty from tmp to tmp my first directory
 Delete the file betty from tmp my first directory
 Delete the directory my first directory in the tmp directory
 Write a script that changes the working directory to the previous one
+Write a script that lists all files, including hidden files, in the current directory, the parent of working directory,the /boot in long format
